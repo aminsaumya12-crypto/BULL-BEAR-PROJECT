@@ -4,6 +4,9 @@ This is a Java-based console application that simulates a simple stock market sy
 
 ---
 
+###Bull Bear 
+!(Bull Bear.jpg)
+
  🚀 Features
 
 * 🔐 **User System**
