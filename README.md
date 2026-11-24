@@ -55,6 +55,14 @@ The main goal of this project is to understand how a stock market system works a
   Username: `user`
   Password: `12345678`
 
+  ## 🔑 Login Information
+
+The application includes separate User and Admin login
+functionalities.
+
+Use the demo accounts configured in the source code
+for local testing. Do not use real or personal passwords.
+
 📌 Note
 
 This project is only for learning purposes and does not use real money or real stock market data.
